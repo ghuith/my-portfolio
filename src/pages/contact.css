@@ -51,3 +51,65 @@
       flex-direction: column;
     }
   }
+
+  /* زر تحميل الـ CV */
+.download-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff; /* أزرق */
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background-color 0.3s;
+}
+
+.download-btn:hover {
+  background-color: #0056b3;
+}
+
+/* أيقونات السوشيال ميديا */
+.social-icons {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.social-icons a {
+  color: #333;
+  font-size: 1.5rem;
+  padding: 8px;
+  border-radius: 50%;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.social-icons a:hover {
+  background-color: #f0f0f0;
+  transform: scale(1.1);
+}
+
+/* ألوان خاصة عند hover */
+.social-icons a:hover svg {
+  color: #0077b5; /* LinkedIn */
+}
+
+.social-icons a:nth-child(2):hover svg {
+  color: #333; /* GitHub */
+}
+
+/* دعم الوضع الليلي */
+@media (prefers-color-scheme: dark) {
+  .social-icons a {
+    color: #ccc;
+  }
+
+  .social-icons a:hover {
+    background-color: #333;
+  }
+
+  .social-icons a:hover svg {
+    color: #1da1f2;
+  }
+}

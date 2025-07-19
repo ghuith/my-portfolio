@@ -12,9 +12,12 @@ const About = () => {
         <div className="about-content">
           <h2>Who am I?</h2>
           <p>
-            I'm a passionate frontend developer with a strong foundation in building modern web applications. 
-            With X years of experience in the field, I've honed my skills in creating responsive, 
-            user-friendly interfaces that provide exceptional user experiences.
+           
+I'm Ghaith Bouallegui, a passionate frontend developer specializing in building modern and responsive web applications. With several years of experience, I focus on crafting clean, user-friendly interfaces that deliver seamless and engaging user experiences.
+
+My journey in web development started when I discovered the power of coding to transform ideas into interactive digital solutions. Since then, I have contributed to various projects—from simple business websites to complex, feature-rich applications—continuously improving my skills and staying up-to-date with the latest technologies.
+
+
           </p>
           <p>
             My journey in web development began when I [your story here]. Since then, 
@@ -22,8 +25,8 @@ const About = () => {
           </p>
           <h2>Education</h2>
           <ul>
-            <li>Bachelor's Degree in Computer Science - University Name (Year-Year)</li>
-            <li>Relevant Certification or Course (Year)</li>
+            <li>institut supérieur des etudes technologiques de kasserine - University Name (Year-Year)</li>
+            <li>go my code /full stack developer web (https://www.gomycode.tn/) (Year)</li>
           </ul>
           <h2>Experience</h2>
           <ul>
