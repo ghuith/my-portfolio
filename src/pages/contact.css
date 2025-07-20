@@ -1,9 +1,12 @@
 .contact-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 40px;
-    margin-top: 40px;
-  }
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  gap: 20px;
+}
+
   
   .contact-info {
     flex: 1;
@@ -111,5 +114,19 @@
 
   .social-icons a:hover svg {
     color: #1da1f2;
+  }
+}
+@media (max-width: 768px) {
+  .contact-container {
+    padding: 10px;
+  }
+  .contact-container input,
+  .contact-container textarea,
+  .contact-container button {
+    width: 100%;
+    font-size: 14px;
+  }
+  .contact-container h2 {
+    font-size: 20px;
   }
 }

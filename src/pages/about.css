@@ -59,4 +59,13 @@
       order: -1;
     }
   }
-  
+  /* Responsive Styles */
+@media (max-width: 768px) {
+  .about-content h2 {
+    font-size: 24px;
+  }
+
+  .about-content p {
+    font-size: 16px;
+  }
+}

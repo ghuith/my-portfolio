@@ -81,5 +81,20 @@
     .project-image {
       min-height: 200px;
     }
+
+
+
+    /* Responsive ≤ 768 px */
+@media (max-width: 768px) {
+  .projects-title {
+    font-size: 24px;
+  }
+  .project-card {
+    padding: 16px;
+  }
+  .project-card h3 {
+    font-size: 18px;
+  }
+}
   }
   
