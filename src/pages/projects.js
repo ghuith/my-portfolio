@@ -10,7 +10,7 @@ const Projects = () => {
       image: 'https://marketplace.canva.com/EAGUQnq9oJg/2/0/1600w/canva-blue-orange-and-white-simple-modern-minimalist-circle-travel-agency-presentation-mQj-eG_3e38.jpg',
       technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
       githubLink: 'https://github.com/ghuith/travel-agency-',
-      liveLink: 'https://project-one.example.com',
+      liveLink: 'https://travel-agency-one-woad.vercel.app/',
     },
     {
       id: 2,
@@ -19,7 +19,7 @@ const Projects = () => {
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBolrEoo6QKuLUbxjD3uvkubreaSEGYa1mGKIDBMz9prqHi7Ub-2KvLoxpkcnnbKrM6PQ&usqp=CAU',
       technologies: ['react'  , 'bootstrap', 'css'],
       githubLink: 'https://github.com/ghuith/amazon-clone',
-      liveLink: 'https://project-two.example.com',
+      liveLink: 'https://travel-agency-oh9j.vercel.app/',
     },
     {
       id: 3,

@@ -54,10 +54,10 @@ const Contact = () => {
 
           {/* Social Links */}
           <div className="social-icons">
-            <a href="https://www.linkedin.com/in/ghaithbouallegui" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/ghaith-bouallegui-649614315/" target="_blank" rel="noopener noreferrer">
               <Linkedin size={24} />
             </a>
-            <a href="https://github.com/ghaithbouallegui" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/ghuith" target="_blank" rel="noopener noreferrer">
               <Github size={24} />
             </a>
           </div>
