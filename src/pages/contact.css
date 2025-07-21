@@ -117,16 +117,17 @@
   }
 }
 @media (max-width: 768px) {
-  .contact-container {
-    padding: 10px;
+  .contact {
+    font-size: 0.9rem;
   }
-  .contact-container input,
-  .contact-container textarea,
-  .contact-container button {
-    width: 100%;
-    font-size: 14px;
+
+  .contact-info {
+    text-align: left;
   }
-  .contact-container h2 {
-    font-size: 20px;
+
+  .contact-form {
+    display: flex;
+    flex-direction: column;
   }
 }
+
