@@ -31,12 +31,12 @@ My journey in web development started when I discovered the power of coding to t
           <h2>Experience</h2>
           <ul>
             <li>
-              <strong>Company Name</strong> - Frontend Developer (Year-Present)
-              <p>Brief description of your role and achievements</p>
+              <strong>Company Name</strong> - Frontend Developer – Freelance (2023 - Present) (Year-Present)
+              <p>Developed several websites and web applications using modern technologies like React.js and Bootstrap. Experienced in building responsive, user-friendly interfaces, enhancing user experience, and integrating frontend with backend services through REST APIs. Worked with clients across different industries, always delivering high-quality projects on time.</p>
             </li>
             <li>
-              <strong>Previous Company</strong> - Position (Year-Year)
-              <p>Brief description of your role and achievements</p>
+              <strong>Previous Company</strong> - Intern – GoMyCode (2024) (Year-Year)
+              <p>Completed an intensive hands-on training program focused on full-stack development using the MERN stack (MongoDB, Express.js, React.js, Node.js). Built full applications from scratch, applied concepts such as authentication, state management, and database design.</p>
             </li>
           </ul>
         </div>
